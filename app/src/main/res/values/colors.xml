@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sampled from your Windows 11 screen -->
+<resources>
+    <color name="frame">#609DBF</color>      <!-- title bar / tab strip -->
+    <color name="tab">#A3C6DA</color>        <!-- active tab, borders -->
+    <color name="pane">#C9DFEA</color>       <!-- sidebar -->
+    <color name="paper">#F0EFEC</color>      <!-- selected item -->
+    <color name="cream">#F7F2E8</color>      <!-- content area -->
+    <color name="ink">#52514E</color>        <!-- outline icons -->
+    <color name="text_blue">#245E82</color>  <!-- sidebar labels -->
+    <color name="hint">#6F8594</color>
+    <color name="scrim">#14245E82</color>
+</resources>

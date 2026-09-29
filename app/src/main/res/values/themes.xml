@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Launcher" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/frame</item>
+        <item name="colorAccent">@color/frame</item>
+        <item name="android:windowBackground">@drawable/wallpaper</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
